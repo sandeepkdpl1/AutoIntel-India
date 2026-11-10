@@ -1,0 +1,24 @@
+{
+  "row_counts": {
+    "forecast_monthly": 2769,
+    "dashboard_estimates": 2240,
+    "car_specs": 53,
+    "master_estimates": 2769
+  },
+  "model_count": 53,
+  "manufacturer_count": 14,
+  "year_range": [
+    2022,
+    2026
+  ],
+  "estimate_total": 20382007,
+  "checks_passed": 25,
+  "checks_total": 25,
+  "important_notes": [
+    "All model-level volumes are industry estimates, not official registrations or sales.",
+    "2026 is a partial year (through October); avoid comparing unadjusted totals with complete years.",
+    "Missing vehicle attributes may be not applicable; do not automatically fill with zero.",
+    "Specification source verification remains a separate manual task.",
+    "These EDA charts describe the supplied dataset, not the actual national market."
+  ]
+}

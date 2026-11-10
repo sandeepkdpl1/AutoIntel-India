@@ -1,0 +1,12 @@
+AUTOINTEL INDIA — PHASE 3 CLEANING & EDA
+
+1. Extract ZIP, open AutoIntel_India folder in VS Code.
+2. In VS Code Terminal (Windows):
+   py -m venv .venv
+   .venv\Scripts\activate.bat  (in Command Prompt)
+   python -m pip install -r requirements.txt
+   python -m pip install matplotlib
+   python scripts/clean_analyze.py
+   python -m streamlit run app.py
+3. Review outputs/ folder for charts, summary and validation checks.
+4. Keep raw CSVs unchanged. All figures are estimates; 2026 is partial.

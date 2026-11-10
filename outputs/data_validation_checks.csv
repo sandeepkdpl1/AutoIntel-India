@@ -1,0 +1,26 @@
+check,passed,detail
+forecast_monthly nonempty,True,2769
+forecast_monthly no exact duplicates,True,0
+forecast_monthly year bounds,True,2022–2026
+forecast_monthly nonnegative estimates,True,
+dashboard_estimates nonempty,True,2240
+dashboard_estimates no exact duplicates,True,0
+dashboard_estimates year bounds,True,2022–2026
+dashboard_estimates nonnegative estimates,True,
+car_specs nonempty,True,53
+car_specs no exact duplicates,True,0
+car_specs year bounds,True,2022–2026
+car_specs nonnegative estimates,True,
+master_estimates nonempty,True,2769
+master_estimates no exact duplicates,True,0
+master_estimates year bounds,True,2022–2026
+master_estimates nonnegative estimates,True,
+forecast monthly unique,True,
+dashboard aggregate unique,True,
+specifications model unique,True,
+master monthly unique,True,
+forecast/dashboard/master totals match,True,"20,382,007"
+master estimates clearly labeled,True,
+forecast date valid,True,
+forecast date/month/year consistent,True,
+forecast covers 2026 only through October,True,
